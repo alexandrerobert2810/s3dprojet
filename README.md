@@ -1,5 +1,5 @@
 ###################
-What is The Excelkencezz
+What is The Excelkences
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
